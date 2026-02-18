@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Another Chance",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-18T15:39:37.797802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Would You Take Another Chance On Me?",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": false,
+      "path": "select/01_Would_You_Take_Another_Chance_On_Me_Jerry_Lee_Lewis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Another_Chance_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_Another_Chance_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/04_Another_Chance_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Another Chance (Afterlife Mix)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/05_Another_Chance_(Afterlife_Mix)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me Another Chance",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/06_Give_Me_Another_Chance_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/07_Another_Chance_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/08_Another_Chance_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Another Chance",
+      "artist": "Roger Sanchez",
+      "has_synced": true,
+      "path": "select/09_Another_Chance_Roger_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Another Chance (Afterlife Mix)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/10_Another_Chance_(Afterlife_Mix)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Another Chance (Miguel Migs Naked Time Rework)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/11_Another_Chance_(Miguel_Migs_Naked_Time_Rework)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Another Chance (Mr G's Last Chance edit)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/12_Another_Chance_(Mr_G's_Last_Chance_edit)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Another Chance - Radio Edit",
+      "artist": "Roger Sanchez",
+      "has_synced": true,
+      "path": "select/13_Another_Chance_-_Radio_Edit_Roger_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Chance (Radio Edit)",
+      "artist": "Roger Sanchez",
+      "has_synced": true,
+      "path": "select/14_Another_Chance_(Radio_Edit)_Roger_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Another Chance (S-Man's Dark Nite mix)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/15_Another_Chance_(S-Man's_Dark_Nite_mix)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Chance (Tom de Neef vocal mix)",
+      "artist": "Roger Sanchez",
+      "has_synced": false,
+      "path": "select/16_Another_Chance_(Tom_de_Neef_vocal_mix)_Roger_Sanchez.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Stand Another Chance",
+      "artist": "Janet Jackson",
+      "has_synced": false,
+      "path": "select/17_Don't_Stand_Another_Chance_Janet_Jackson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "8. Would You Take Another Chance on Me",
+      "artist": "JERRY LEE LEWIS",
+      "has_synced": false,
+      "path": "select/18_8._Would_You_Take_Another_Chance_on_Me_JERRY_LEE_LEWIS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Another Chance",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Another_Chance_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Another Chance",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Another_Chance_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Another Chance",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Another_Chance_宇多田_ヒカル.txt"
+    }
+  ]
+}
